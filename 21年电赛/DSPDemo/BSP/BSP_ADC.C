@@ -22,7 +22,7 @@
 	float32_t	freq4;
 	float32_t	freq5;
 	float32_t   wave[4096];
-	 int begin_flag;
+	
 	
 //  int index3;
 //  int index4;
