@@ -22,7 +22,7 @@
 	float32_t	freq4;
 	float32_t	freq5;
 	float32_t   wave[4096];
-	
+//奶黄包	
 //这是一个测试程序	
 //  int index3;
 //  int index4;
