@@ -10,6 +10,8 @@
 //git测试，
 //1111
 //？？？？？？
+//奶黄包
+
 volatile uint32_t sample_rate = ADC_SAMPLE_RATE;
 __attribute__((section (".RAM_SDRAM"))) ADC_def	adc_ch[3];
 __attribute__((section (".RAM_SDRAM"))) float32_t dac_out_buf[ADC_SAMPLE_LENGTH];
